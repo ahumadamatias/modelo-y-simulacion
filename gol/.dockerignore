@@ -1,0 +1,6 @@
+bin/
+include/
+lib/
+.gitignore
+Dockerfile
+pyvenv.cfg
