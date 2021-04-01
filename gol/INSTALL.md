@@ -13,6 +13,8 @@
 
 Como requisito previo se debe tener instalado docker. [instalar docker](https://docs.docker.com/engine/install/ubuntu/)
 
+Antes de contruir la imagen crear un archivo.txt con el patron que se desea, revisar para mas informacion README.md
+
 Se debe construir una imagen de docker a partir de el archivo Dockerfile que se encuentra en el repositorio
 
 ```docker built -t gol .```
